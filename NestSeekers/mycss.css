@@ -1,0 +1,8 @@
+#txtEditTitle,#txtEditPrice,#txtEditAddress,#txtEditDescription,#txtEditArea,#cmbBedRoom{
+	border-style: none;width: auto;
+	
+}
+#txtEditTitle:focus,#txtEditAddress:focus,#txtEditPrice:focus,#txtEditDescription:focus,#txtEditArea:focus,#cmbBedRoom:focus{
+	border-style: double;width: auto;
+	
+}

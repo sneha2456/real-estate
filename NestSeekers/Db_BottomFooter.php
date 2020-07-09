@@ -1,0 +1,1 @@
+<p class="sub-banner-2 text-center" style="margin-left: 250px;">© 2019-20 <a href="index.php" style="color: #ff214f">NestSeekers.</a> Trademarks and brands are the property of their respective owners.</p>
